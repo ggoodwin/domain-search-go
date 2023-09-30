@@ -21,6 +21,6 @@
 go.work
 
 # vscode
-.code-workspace
+*.code-workspace
 .env
 !.env.example
