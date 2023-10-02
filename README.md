@@ -23,13 +23,21 @@
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://ggn.sh/skype)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/tg)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
-[![ggoodwin#0001](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://discord.id/?prefill=179795086543028224)
+[![ggoodwin#0001](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://ggn.sh/discord)
 </div>
 <br>
 
 <h2>Repo Info</h2>
 
 ![Size](https://img.shields.io/github/languages/code-size/ggoodwin/domain-search-go) [![Last Commit](https://img.shields.io/github/last-commit/ggoodwin/domain-search-go)](https://github.com/ggoodwin/domain-search-go/commits/master) [![License](https://img.shields.io/github/license/ggoodwin/domain-search-go)](https://github.com/ggoodwin/domain-search-go/blob/master/LICENSE.md)
+
+<h2>Go</h2>
+
+[![Go Reference](https://pkg.go.dev/badge/ggoodwin/domain-search-go.svg)](https://pkg.go.dev/github.com/ggoodwin/domain-search-go) [![Go Version](https://img.shields.io/github/go-mod/go-version/ggoodwin/domain-search-go)](https://go.dev/doc/go1.20)
+
+<h2>Code Reports</h2>
+
+[![GoReportCard](https://goreportcard.com/badge/github.com/ggoodwin/domain-search-go)](https://goreportcard.com/report/github.com/ggoodwin/domain-search-go)
 
 </div>
 
